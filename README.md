@@ -21,9 +21,9 @@ https://baepippi.github.io/newfirstproject/project
 ## 팀원 및 파트
 
 <ul>
-<li>배소영 * 메뉴페이지, 메뉴상세페이지, 굿즈페이지 *</li>
-<li>박원지</li>
-<li>황지원</li>
+<li> 배소영(메뉴페이지, 메뉴상세페이지, 굿즈페이지)</li>
+<li>박원지(메인페이지, 헤더, 푸터, 배너)</li>
+<li>황지원(로그인, 마이페이지)</li>
 </ul>
 
 ## 기술 스택

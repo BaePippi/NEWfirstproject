@@ -18,10 +18,10 @@ https://baepippi.github.io/newfirstproject/project
 
 <br>
 
-##팀원 및 파트
+## 팀원 및 파트
 
 <ul>
-<li>배소영</li>
+<li>배소영 * 메뉴페이지, 메뉴상세페이지, 굿즈페이지 *</li>
 <li>박원지</li>
 <li>황지원</li>
 </ul>

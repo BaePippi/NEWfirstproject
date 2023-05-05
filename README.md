@@ -11,7 +11,7 @@ https://baepippi.github.io/newfirstproject/project
 </p>
 
 <p align="center">
-<video width="700" align="center" src="https://github.com/BaePippi/newfirstproject/blob/main/project/image1/knotted.mp4" alt="demo"></video>
+<video src="https://github.com/BaePippi/newfirstproject/blob/main/project/image1/knotted.mp4" alt="demo" control></video>
 </p>
 
 <br>

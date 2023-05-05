@@ -12,14 +12,15 @@ https://baepippi.github.io/newfirstproject/project
 
 <br>
 
+## 개발 기간
+
+<p align="justify">
+2022.11.14 ~ 2022.12.09
+</p>
+
 ## 기술 스택
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|       |       |  |  |
 
 <br>
 

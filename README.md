@@ -11,7 +11,7 @@ https://baepippi.github.io/newfirstproject/project
 </p>
 
 <p align="center">
-<img width= "400" align="center" src="https://github.com/BaePippi/newfirstproject/blob/main/project/image1/knotted.gif" alt="demo"/>
+![knottedSmall](https://user-images.githubusercontent.com/119798002/236483757-1f01f637-b1b4-4915-80ac-8a2a8c8fb6f1.gif)
 </p>
 
 <br>
